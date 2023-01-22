@@ -1,0 +1,8 @@
+2023-01-20 * "Bought 750 JNK @ 93.26"
+  Assets:TDA:IRA:Cash                      -69945.00  USD
+  Assets:TDA:IRA:JNK             750.000  JNK  {93.2600  USD}
+
+2023-01-20 * "Sold 50 IBM @ 141.67"
+  Assets:TDA:IRA:IBM             50.000  IBM  {141.6700  USD}
+  Assets:TDA:IRA:Cash                      -7083.50  USD
+

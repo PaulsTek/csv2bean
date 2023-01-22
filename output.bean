@@ -1,0 +1,12 @@
+2023-01-19 * "AMZN Mktp US*2Q2R46XN3   Amzn.com/billWA"
+  Assets:TDA:IRA:Cash                      5.48  USD
+  Income:ZeroBalance:Amazon                -5.48  USD
+
+2023-01-19 * "TST* 407 BBQ             ARGYLE       TX"
+  Assets:TDA:IRA:Cash                      28.74  USD
+  Expenses:Living:Restaurant               -28.74  USD
+
+2023-01-19 * "LONESOME SPUR            JUSTIN       TX"
+  Assets:TDA:IRA:Cash                      24.63  USD
+  Expenses:Living:Restaurant               -24.63  USD
+

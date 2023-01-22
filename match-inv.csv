@@ -1,0 +1,3 @@
+fromAccount,toAccount,trade,contains
+Assets:TDA:IRA:Cash,Assets:TDA:IRA:,BUY,Bought
+Assets:TDA:IRA:,Assets:TDA:IRA:Cash,SELL,Sold
